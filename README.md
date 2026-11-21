@@ -1,4 +1,4 @@
-# Reference-Image Building Recognition (SuperPoint + LightGlue)
+# Reference-Image based Building Recognition (SuperPoint + LightGlue)
 
 Recognizes one specific building in a camera feed from just 1 to 3 reference photos, with no per-building training. Learned feature matching separates the target from other buildings far better than classical methods.
 
